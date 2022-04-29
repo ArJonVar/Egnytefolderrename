@@ -1,0 +1,5 @@
+
+       
+       setx EGNYTE_KEY "JVEp_vHjbILOxWjLGGt0-RcxqLM0bqWvizptGjMrUBg=",
+       setx EGNYTE_TOKEN "gAAAAABibFEtvYVFFrfxQ6ru52cmjAhXX823gqG5eVGIoHG3Pdy9ciL5Mp8Lu1Fjz7d9OFmjYUcrSCTKlr_hkgzo2vc6dadTpGWk6ztY2bBValqwG8xmJIcu-uQariF9BrorahULjeXM5IbDelkX3j3CEg8yU5tKKQ==",
+       
